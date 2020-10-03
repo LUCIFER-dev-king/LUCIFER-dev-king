@@ -1,4 +1,4 @@
-### Hi there, I am Nihal 👋
+### Hi there, I'm Nihal 👋
 
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on open source project
